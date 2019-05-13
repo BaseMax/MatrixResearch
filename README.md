@@ -33,3 +33,4 @@ This includes scientific content and paper, Any copying requires mentioning the 
 
 The article has been wrote using **Latex**, **HTML**, **CSS**, **Browser**, **C**, **PHP**.
 
+All of the calculations has been run under **UNIX**, **Gnu/Linux**. (The server of the our research team)
