@@ -25,3 +25,11 @@ I have not publish this yet at here...
 ![Matrix-0006.jpg](Matrix-0006.jpg)
 
 ![Matrix-0007.jpg](Matrix-0007.jpg)
+
+
+# License
+
+This includes scientific content and paper, Any copying requires mentioning the source.
+
+The article has been wrote using **Latex**, **HTML**, **CSS**, **Browser**, **C**, **PHP**.
+
