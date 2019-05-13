@@ -2,6 +2,10 @@
 
 New results from research on matrices.
 
+![Article-0001.jpg](Article-0001.jpg)
+
+![Article-0002.jpg](Article-0002.jpg)
+
 ## Episode 1
 
 I have not publish this yet at here...
